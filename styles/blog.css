@@ -1,4 +1,6 @@
 div{
     background-color: chartreuse;
     padding: 10px;
+    margin-bottom: 10px;
+    width: 400px;
 }
